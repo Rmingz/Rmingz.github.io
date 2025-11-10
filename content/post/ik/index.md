@@ -3,7 +3,7 @@ title: IK
 description: IK 是一個在Minecraft裡由Rming所發明的遊戲，內含40+隻角色、150+技能、70+地圖與多種特殊模式，進行刺激的PvP遊戲體驗！
 slug: ik
 date: 2025-10-06 00:00:00+0000
-image: cover.jpg
+image: cover.png
 categories:
     - IK
 tags:
