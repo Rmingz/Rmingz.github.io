@@ -11,8 +11,18 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-遊戲系統：
-大廳
+# 遊戲系統：
+
+
 角色、地圖、隊伍、模式選擇
+![Photo of pb](ik_pb.png)
+
+
+![Photo of oceanman](ik_oceanman.png)
+
+
+![Photo of explo](ik_explo.png)
+
 1000+獨特指令檔
 20000+行非特效指令(加特效為300000)
+
